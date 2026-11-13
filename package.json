@@ -1,0 +1,17 @@
+{
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "description": "RESTful Book Management API built with Node.js, Express and SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["books", "api", "nodejs", "express", "sqlite"],
+  "author": "Lucas Cosma",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
